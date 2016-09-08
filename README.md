@@ -4,6 +4,8 @@
 It's a script which agregates livestreamer, omxplayer (available on Raspbian) and ncurse for python to give you possibility to play stream provided by telewizjada.net
 It doesn't require any X's - can be run directly from the shell.
 
+![alt tag](http://i.imgur.com/IB657Yr.png)
+
 ## Dependenties
 You need to have installed omxplayer and livestreamer
 
